@@ -1,6 +1,6 @@
 pkgbase = php7
 	pkgver = 7.0.0alpha1
-	pkgrel = 3
+	pkgrel = 4
 	url = http://www.php.net
 	arch = i686
 	arch = x86_64
